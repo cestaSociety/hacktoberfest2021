@@ -1,3 +1,5 @@
+### NO longer accepting new PR. See you next year.
+
 ![HacktoberFestBanner](../../blob/main/_src/banner-dark.png)
 
 Hi Students Of Delhi Technical Campus , This is October.
